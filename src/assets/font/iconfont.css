@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2769443 */
+  src: url('iconfont.woff2?t=1630460754001') format('woff2'),
+       url('iconfont.woff?t=1630460754001') format('woff'),
+       url('iconfont.ttf?t=1630460754001') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qq:before {
+  content: "\e6b2";
+}
+
+.icon-weibo:before {
+  content: "\e63e";
+}
+
+.icon-wechat:before {
+  content: "\e763";
+}
+
+.icon-netease1:before {
+  content: "\e61b";
+}
+
+.icon-cloud_village2:before {
+  content: "\e606";
+}
+
+.icon-podcast:before {
+  content: "\e6e3";
+}
+
+.icon-podcasts:before {
+  content: "\e605";
+}
+
+.icon-podcast1:before {
+  content: "\f084";
+}
+
+.icon-cloud_village:before {
+  content: "\e603";
+}
+
+.icon-24gf-playlistMusic:before {
+  content: "\ea86";
+}
+
+.icon-playlist:before {
+  content: "\e668";
+}
+
+.icon-pause:before {
+  content: "\e845";
+}
+
+.icon-pause1:before {
+  content: "\e667";
+}
+
+.icon-pause2:before {
+  content: "\e6e8";
+}
+
+.icon-yinfu:before {
+  content: "\e630";
+}
+
+.icon-netease-cloud-music-line:before {
+  content: "\e6a5";
+}
+
+.icon-play:before {
+  content: "\e851";
+}
+
+.icon-netease:before {
+  content: "\e68a";
+}
+
+.icon-user:before {
+  content: "\e611";
+}
+
+.icon-search:before {
+  content: "\e623";
+}
+
+.icon-hamburg:before {
+  content: "\e6ec";
+}
+
